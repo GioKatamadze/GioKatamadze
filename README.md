@@ -26,7 +26,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Mongoose
 - Joi validation
 
-<img src="./images/Product-Feedback_App.jpg" max-height="200px" />
+<img src="./images/Product-Feedback_App.jpg" height="300" />
 </details>
 
 
