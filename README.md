@@ -30,3 +30,21 @@ I am Gio, Full Stack Developer. You can contact me via:
 </details>
 
 
+<details>
+<summary>Picnic</summary>
+  
+<img src="./images/picnic.png" height="300" />
+
+### Links
+- Frontend Solution URL: [GitHub Code](https://github.com/GioKatamadze/picnic-front)
+- Backend Solution URL: [GitHub Code](https://github.com/GioKatamadze/picnic-api)
+- Live Site URL: [GitHub LIve](https://hilarious-meringue-941730.netlify.app/)
+
+### Built with
+- React JS
+- Node JS
+- Express js
+- AG Grid
+</details>
+
+
