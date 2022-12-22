@@ -5,7 +5,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Gmail - giokat.inbox@gmail.com
 
 ## Projects
-
+<hr/>
 <details>
 <summary>Product Feedback App</summary>
 <br/>
@@ -99,9 +99,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Flexbox
 - Media Queries
 - GitFlow workflow
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 <details>
@@ -119,9 +119,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - CSS
 - Mobile first approach
 - Vanilla Javascript
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -141,9 +141,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - CSS
 - Mobile first approach
 - Vanilla Javascript
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -162,9 +162,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - CSS
 - Mobile first approach
 - Vanilla Javascript
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -183,9 +183,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - HTML5
 - Tailwind CSS
 - Vanilla Javascript
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -205,9 +205,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - CSS custom properties
 - Mobile first approach
 - Vanilla Javascript
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -227,9 +227,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - CSS custom properties
 - Mobile first approach
 - Vanilla Javascript
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -247,9 +247,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile first approach
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -267,9 +267,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile first approach
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -287,9 +287,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile first approach
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -307,9 +307,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile first approach
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -327,9 +327,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile first approach
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -347,9 +347,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile first approach
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -367,9 +367,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile first approach
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -386,9 +386,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -405,5 +405,6 @@ I am Gio, Full Stack Developer. You can contact me via:
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
-<hr/>
+
 </details>
+<hr/>
