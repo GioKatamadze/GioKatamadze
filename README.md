@@ -27,6 +27,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Joi validation
 
 ![Design preview for the Product feedback app](./images/Product-Feedback_App.jpg)
+<img src="./images/Product-Feedback_App.jpg" height="200" />
 </details>
 
 
