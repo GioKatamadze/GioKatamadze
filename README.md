@@ -10,7 +10,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 <summary>Product Feedback App</summary>
 <br/>
   
-<img src="./images/Product-Feedback_App.jpg" height="300" />
+<img src="./images/Product-Feedback_App.jpg" width="300" />
 
 ### Links
 - Live Site URL: [Live](https://vocal-paprenjak-6f9f8e.netlify.app/)
@@ -28,6 +28,8 @@ I am Gio, Full Stack Developer. You can contact me via:
 - MongoDB
 - Mongoose
 - Joi validation
+  
+<hr/>
 </details>
 
 
@@ -37,7 +39,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 <summary>Picnic</summary>
 <br/>
   
-<img src="./images/picnic.png" height="300" />
+<img src="./images/picnic.png" width="300" />
 
 ### Links
 - Frontend Solution URL: [GitHub Code](https://github.com/GioKatamadze/picnic-front)
@@ -58,7 +60,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 <summary>Github User Search APP</summary>
 <br/>
   
-<img src="./images/Github_User-Search_APP.png" height="300" />
+<img src="./images/Github_User-Search_APP.png" width="300" />
 
 ### Links
 - Solution URL: [GitHub Code](https://github.com/GioKatamadze/Github_User-Search_APP)
@@ -80,7 +82,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 <summary>IP Address Tracker</summary>
 <br/>
   
-<img src="./images/ip-address-tracker.jpg" height="300" />
+<img src="./images/ip-address-tracker.jpg" width="300" />
 
 ### Links
 - Solution URL: [GitHub Code](https://github.com/GioKatamadze/ip-address-tracker)
@@ -105,7 +107,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 <summary>Tic Tac Toe</summary>
 <br/>
   
-<img src="./images/tictac.png" height="300" />
+<img src="./images/tictac.png" width="300" />
 
 ### Links
 - Solution URL: [GitHub Code](https://github.com/GioKatamadze/Tic-Tac-Toe)
@@ -113,12 +115,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 
 
 ### Built with
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 
+- CSS
 - Mobile first approach
-- Flexbox
-- Grid
-- Media Queries
 - Vanilla Javascript
 </details>
 
@@ -130,7 +129,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 <summary>Launch countdown timer</summary>
 <br/>
   
-<img src="./images/timer.png" height="300" />
+<img src="./images/timer.png" width="300" />
 
 ### Links
 - Solution URL: [GitHub Code](https://github.com/GioKatamadze/Launch-Countdown-Timer)
@@ -138,11 +137,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 
 
 ### Built with
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 
+- CSS
 - Mobile first approach
-- Flexbox
-- Media Queries
 - Vanilla Javascript
 </details>
 
@@ -153,7 +150,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 <summary>Tip Calculator App</summary>
 <br/>
   
-<img src="./images/calculator.png" height="300" />
+<img src="./images/calculator.png" width="300" />
 
 ### Links
 - Solution URL: [GitHub Code](https://github.com/GioKatamadze/Tip-Calculator-App)
@@ -161,11 +158,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 
 
 ### Built with
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 
+- CSS
 - Mobile first approach
-- Flexbox
-- Media Queries
 - Vanilla Javascript
 </details>
 
@@ -179,7 +174,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 <summary>Interactive pricing component</summary>
 <br/>
   
-<img src="./images/pricing.png" height="300" />
+<img src="./images/pricing.png" width="300" />
 
 ### Links
 - Solution URL: [GitHub Code](https://github.com/GioKatamadze/Interactive-Pricing-Component)
@@ -187,9 +182,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 
 
 ### Built with
-- Flexbox
-- Grid
-- Media Queries
+- HTML5
 - Tailwind CSS
 - Vanilla Javascript
 </details>
@@ -203,7 +196,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 <summary>Single-Page Design Portfolio</summary>
 <br/>
   
-<img src="./images/single-page-design.jpg" height="300" />
+<img src="./images/single-page-design.jpg" width="300" />
 
 ### Links
 - Solution URL: [GitHub Code](https://github.com/GioKatamadze/Single-Page-Design)
@@ -214,9 +207,6 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile first approach
-- Flexbox
-- Grid
-- Media Queries
 - Vanilla Javascript
 </details>
 
@@ -228,7 +218,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 <summary>FAQ Accordion Card</summary>
 <br/>
   
-<img src="./images/faq.png" height="300" />
+<img src="./images/faq.png" width="300" />
 
 ### Links
 - Solution URL: [GitHub Code](https://github.com/GioKatamadze/FAQ-Accordion-Card)
@@ -239,10 +229,220 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile first approach
-- Flexbox
-- Media Queries
 - Vanilla Javascript
 </details>
+
+
+
+
+
+
+
+<details>
+<summary>Type Master Pre-Launch Landing Page</summary>
+<br/>
+  
+<img src="./images/master.jpg" width="300" />
+
+### Links
+- Solution URL: [GitHub Code](https://github.com/GioKatamadze/Typemaster-Pre-Launch-Landing-Page)
+- Live Site URL: [GitHub LIve](https://giokatamadze.github.io/Typemaster-Pre-Launch-Landing-Page//)
+
+
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile first approach
+</details>
+
+
+
+
+
+
+
+
+
+<details>
+<summary>Equalizer Landing Page</summary>
+<br/>
+  
+<img src="./images/equal.jpg" width="300" />
+
+### Links
+- Solution URL: [GitHub Code](https://github.com/GioKatamadze/Equalizer-Landing-Page)
+- Live Site URL: [GitHub LIve](https://giokatamadze.github.io/Equalizer-Landing-Page//)
+
+
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile first approach
+</details>
+
+
+
+
+
+
+
+<details>
+<summary>Art Gallery Website</summary>
+<br/>
+  
+<img src="./images/art.jpg" width="300" />
+
+### Links
+- Solution URL: [GitHub Code](https://github.com/GioKatamadze/Art-Gallery-Website)
+- Live Site URL: [GitHub LIve](https://giokatamadze.github.io/Art-Gallery-Website/index.html)
+
+
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile first approach
+</details>
+
+
+
+
+
+
+
+
+
+<details>
+<summary>Skilled Elearning Landing Page</summary>
+<br/>
+  
+<img src="./images/skilled.jpg" width="300" />
+
+### Links
+- Solution URL: [GitHub Code](https://github.com/GioKatamadze/Skilled-Elearning-Landing-Page)
+- Live Site URL: [GitHub LIve](https://giokatamadze.github.io/Skilled-Elearning-Landing-Page//)
+
+
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile first approach
+</details>
+
+
+
+
+
+
+
+<details>
+<summary>Four Card Feature Section</summary>
+<br/>
+  
+<img src="./images/4card.jpg" width="300" />
+
+### Links
+- Solution URL: [GitHub Code](https://github.com/GioKatamadze/Four-Card-Feature-Section)
+- Live Site URL: [GitHub LIve](https://giokatamadze.github.io/Four-Card-Feature-Section/)
+
+
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile first approach
+</details>
+
+
+
+
+
+
+
+
+
+<details>
+<summary>Fylo Landing Page With Two Column Layout</summary>
+<br/>
+  
+<img src="./images/fylo.jpg" width="300" />
+
+### Links
+- Solution URL: [GitHub Code](https://github.com/GioKatamadze/Fylo-Landing-Page-With-Two-Column-Layout)
+- Live Site URL: [GitHub LIve](https://giokatamadze.github.io/Fylo-Landing-Page-With-Two-Column-Layout//)
+
+
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile first approach
+</details>
+
+
+
+
+
+
+
+<details>
+<summary>Profile Card Component</summary>
+<br/>
+  
+<img src="./images/profile.jpg" width="300" />
+
+### Links
+- Solution URL: [GitHub Code](https://github.com/GioKatamadze/Profile-Card-Component)
+- Live Site URL: [GitHub LIve](https://giokatamadze.github.io/Profile-Card-Component/)
+
+
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile first approach
+</details>
+
+
+
+
+
+<details>
+<summary>NFT preview card component</summary>
+<br/>
+  
+<img src="./images/nft.jpg" width="300" />
+
+### Links
+- Solution URL: [GitHub Code](https://github.com/GioKatamadze/NFT-Preview-Card-Component)
+- Live Site URL: [GitHub LIve](https://giokatamadze.github.io/NFT-Preview-Card-Component/)
+
+
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
+</details>
+
+
+
+
+<details>
+<summary>Order Summary Component</summary>
+<br/>
+  
+<img src="./images/order.jpg" width="300" />
+
+### Links
+- Solution URL: [GitHub Code](https://github.com/GioKatamadze/Order-Summary-Component)
+- Live Site URL: [GitHub LIve](https://giokatamadze.github.io/Order-Summary-Component//)
+
+
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
+</details>
+
+
+
+
+
+
 
 
 
