@@ -29,9 +29,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Mongoose
 - Joi validation
   
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -51,9 +51,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Node JS
 - Express js
 - AG Grid
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 
@@ -74,9 +74,9 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Mobile first approach
 - GitFlow workflow
 - React styled components
-<hr/>
-</details>
 
+</details>
+<hr/>
 
 
 <details>
