@@ -5,7 +5,6 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Gmail - giokat.inbox@gmail.com
 
 ## Projects
-<hr/>
 <details>
 <summary>Product Feedback App</summary>
 <br/>
