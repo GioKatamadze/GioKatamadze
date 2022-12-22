@@ -8,6 +8,8 @@ I am Gio, Full Stack Developer. You can contact me via:
 
 <details>
 <summary>Product Feedback App</summary>
+  
+<img src="./images/Product-Feedback_App.jpg" height="300" />
 
 ### Links
 - Live Site URL: [Live](https://vocal-paprenjak-6f9f8e.netlify.app/)
@@ -25,8 +27,6 @@ I am Gio, Full Stack Developer. You can contact me via:
 - MongoDB
 - Mongoose
 - Joi validation
-
-<img src="./images/Product-Feedback_App.jpg" height="300" />
 </details>
 
 
