@@ -8,6 +8,7 @@ I am Gio, Full Stack Developer. You can contact me via:
 
 <details>
 <summary>Product Feedback App</summary>
+<br/>
   
 <img src="./images/Product-Feedback_App.jpg" height="300" />
 
@@ -30,8 +31,11 @@ I am Gio, Full Stack Developer. You can contact me via:
 </details>
 
 
+
+
 <details>
 <summary>Picnic</summary>
+<br/>
   
 <img src="./images/picnic.png" height="300" />
 
@@ -46,5 +50,29 @@ I am Gio, Full Stack Developer. You can contact me via:
 - Express js
 - AG Grid
 </details>
+
+
+
+
+<details>
+<summary>Github User Search APP</summary>
+<br/>
+  
+<img src="./images/Github_User-Search_APP.png" height="300" />
+
+### Links
+- Solution URL: [GitHub Code](https://github.com/GioKatamadze/Github_User-Search_APP)
+- Live Site URL: [Demo LIve](https://dashing-mandazi-c74cb8.netlify.app/)
+
+
+### Built with
+- React JS
+- Node JS
+- Github API
+- Mobile first approach
+- GitFlow workflow
+- React styled components
+</details>
+
 
 
