@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giokatamadze" alt="giokatamadze" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [GioKatamadze]([https://github.com/nikanoza](https://giokatamadze.netlify.app/))
+- 👨‍💻 All of my projects are available at [GioKatamadze.com](https://giokatamadze.netlify.app/)
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/gio-katamadze-a409931a7) Gmail - giokat.inbox@gmail.com
 
